@@ -38,7 +38,6 @@ class LinkedList():
                 return True
             
         return False
-    
 
     
     def __str__( self ):
