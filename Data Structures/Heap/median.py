@@ -8,7 +8,6 @@ Created on Tue Jun  6 14:58:27 2017
 from heap import MinHeap
 from heap import MaxHeap
 
-
 upper = MinHeap()
 lower = MaxHeap()
      
